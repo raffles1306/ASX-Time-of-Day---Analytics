@@ -1,4 +1,4 @@
-# asx-mining-tod-analysis
+# ASX-Time-of-Day-Analytics
 
 Toolkit for analysing intraday time-of-day moves in ASX mining stocks.  
 Pulls price data in 15-min slots (AWST), screens for decent swings, and spits out stats, Excel reports, and sector dashboards.
